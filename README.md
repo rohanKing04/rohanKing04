@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohanKing04
 - 👀 I’m interested in ethical hacking, web development, and writing
-- 🌱 I’m currently learning ethical hacking, django, javascript
+- 🌱 I’m currently developing my skills on ethical hacking, web dev and coding
 - 💞️ I’m looking to collaborate on anything that helps me develop my skiills
 - 📫 How to reach me mail id : rohanking2003@gmail.com
 
